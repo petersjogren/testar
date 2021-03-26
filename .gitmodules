@@ -1,0 +1,6 @@
+[submodule "modules/apa"]
+	path = modules/apa
+	url = git@github.com:java-decompiler/jd-gui.git
+[submodule "modules/something"]
+	path = modules/something
+	url = git@github.com:GameHackerC/Mathletics-Hack-Code.git
